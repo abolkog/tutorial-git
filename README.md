@@ -1,5 +1,5 @@
 # Git & Github Tutorial
-This repo is for the tutorial "Learn Git and Github" on abolkog.com
+This repo is for the tutorial "[Learn Git and GitHub](https://www.youtube.com/playlist?list=PL_aOZuct6oAogr4UMkWddU7leOXw0QKJS)" 
 
 ## Heading tany
 
